@@ -9,7 +9,7 @@
 
 .block {
   width: 700px;
-  height: 1000px;
+  height: auto;
   position: absolute;
   top: 0;
   right: 0;
