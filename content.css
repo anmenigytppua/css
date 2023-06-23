@@ -1,1 +1,6 @@
-111
+.content_center {
+  display: block;
+  margin: auto;
+  width: 700px;
+  text-align: center;
+  }
